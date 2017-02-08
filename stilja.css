@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'stijlafree';
-    src: url('random/stiljafree-webfont.woff' format('woff')),
-         url('random/stiljafree-webfont.woff2' format('woff2'));
+    src: url('https://rawgit.com/staciepoin/random/master/stiljafree-webfont.woff' format('woff')),
+         url('https://rawgit.com/staciepoin/random/master/stiljafree-webfont.woff2' format('woff2'));
     font-weight: normal;
     font-style: normal;
 }
